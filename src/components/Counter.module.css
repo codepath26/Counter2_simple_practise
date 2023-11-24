@@ -23,15 +23,15 @@
 }
 
 .btnContainer{
-  display: flex;
-  flex-direction: column;
-  text-align: center;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* text-align: center; */
   background: none;
   /* border: 1px solid red; */
 }
 
 .btnContainer button{
-  width: 40%;
-  margin: 10px auto;
+  display:  inline-block;
+  margin: 10px;
 
 }
